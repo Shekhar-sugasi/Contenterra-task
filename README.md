@@ -12,3 +12,7 @@
 1. Clone this repository
 2. Run `npm install` to install dependencies
 3. Run `npm start` to start the app
+
+### Note
+
+If posts don't appear immediately, open DevTools once, clear the terminal, and reload the page to view the posts correctly.
